@@ -1,0 +1,3 @@
+[submodule "cloud/slackservice"]
+	path = cloud/slackservice
+	url = https://github.com/isanjosgon/slackservice-aidifycloud.git

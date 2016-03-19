@@ -1,3 +1,9 @@
 [submodule "cloud/slackservice"]
 	path = cloud/slackservice
 	url = https://github.com/isanjosgon/slackservice-aidifycloud.git
+[submodule "ios"]
+	path = ios
+	url = https://github.com/hugoj-peral/aidify-ios.git
+[submodule "cloud/apigateway"]
+	path = cloud/apigateway
+	url = https://github.com/isanjosgon/apigateway-aidifycloud.git

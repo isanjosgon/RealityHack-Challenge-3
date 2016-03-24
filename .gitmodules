@@ -13,3 +13,6 @@
 [submodule "cloud/statsmanagement"]
 	path = cloud/statsmanagement
 	url = https://github.com/isanjosgon/statsmanagement-aidifycloud.git
+[submodule "cloud/pointsservice"]
+	path = cloud/pointsservice
+	url = https://github.com/isanjosgon/pointsservice-aidifycloud.git

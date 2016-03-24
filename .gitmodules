@@ -10,3 +10,6 @@
 [submodule "cloud/messagebroker"]
 	path = cloud/messagebroker
 	url = https://github.com/isanjosgon/messagebroker-aidifycloud.git
+[submodule "cloud/statsmanagement"]
+	path = cloud/statsmanagement
+	url = https://github.com/isanjosgon/statsmanagement-aidifycloud.git

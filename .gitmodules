@@ -4,9 +4,6 @@
 [submodule "ios"]
 	path = ios
 	url = https://github.com/hugoj-peral/aidify-ios.git
-[submodule "cloud/apigateway"]
-	path = cloud/apigateway
-	url = https://github.com/isanjosgon/apigateway-aidifycloud.git
 [submodule "cloud/messagebroker"]
 	path = cloud/messagebroker
 	url = https://github.com/isanjosgon/messagebroker-aidifycloud.git
@@ -25,3 +22,6 @@
 [submodule "usermanagement-aidifycloud"]
 	path = cloud/usermanagement-aidifycloud
 	url = https://github.com/Adriano90/usermanagement-aidifycloud
+[submodule "apigateway-aidifycloud"]
+	path = cloud/apigateway-aidifycloud
+	url = https://github.com/isanjosgon/apigateway-aidifycloud

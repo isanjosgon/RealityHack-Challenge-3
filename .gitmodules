@@ -17,7 +17,7 @@
 	path = cloud/pointsservice
 	url = https://github.com/isanjosgon/pointsservice-aidifycloud.git
 [submodule "activity-aidifycloud"]
-	path = activity-aidifycloud
+	path = cloud/activity-aidifycloud
 	url = https://github.com/Adriano90/activity-aidifycloud
 [submodule "github-aidifycloud"]
 	path = github-aidifycloud

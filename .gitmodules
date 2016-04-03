@@ -20,8 +20,8 @@
 	path = cloud/activity-aidifycloud
 	url = https://github.com/Adriano90/activity-aidifycloud
 [submodule "github-aidifycloud"]
-	path = github-aidifycloud
+	path = cloud/github-aidifycloud
 	url = https://github.com/Adriano90/github-aidifycloud
 [submodule "usermanagement-aidifycloud"]
-	path = usermanagement-aidifycloud
+	path = cloud/usermanagement-aidifycloud
 	url = https://github.com/Adriano90/usermanagement-aidifycloud

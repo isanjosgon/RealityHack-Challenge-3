@@ -16,12 +16,12 @@
 [submodule "cloud/pointsservice"]
 	path = cloud/pointsservice
 	url = https://github.com/isanjosgon/pointsservice-aidifycloud.git
-[submodule "cloud/activityservice"]
-	path = cloud/activityservice
-	url = https://github.com/Adriano90/activity-aidifycloud.git
-[submodule "cloud/usermanagement"]
-	path = cloud/usermanagement
-	url = https://github.com/Adriano90/usermanagement-aidifycloud.git
-[submodule "cloud/githubservice"]
-	path = cloud/githubservice
+[submodule "activity-aidifycloud"]
+	path = activity-aidifycloud
+	url = https://github.com/Adriano90/activity-aidifycloud
+[submodule "github-aidifycloud"]
+	path = github-aidifycloud
 	url = https://github.com/Adriano90/github-aidifycloud
+[submodule "usermanagement-aidifycloud"]
+	path = usermanagement-aidifycloud
+	url = https://github.com/Adriano90/usermanagement-aidifycloud

@@ -9,7 +9,6 @@ Team Members
 - Isra San Jose
 
 # Repository structure
------
 - **ios:** ai{D}FY iOS application
 - **cloud/activity-aidifycloud:** ai{D}FY activity management service, store github event data
 - **cloud/apigateway-aidifycloud:** Rest api to access ai{D}FY services, offers response caching.
